@@ -17,7 +17,7 @@ A simple command-line based **Rock, Paper, Scissors** game built using Python. P
 
 ## 🛠️ Requirements
 
-- Python 3.x  
+- Python 3.10.8  
 - No external libraries required (uses built-in `random` module)
 
 ---
